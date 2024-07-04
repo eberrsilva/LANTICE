@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Thirdparty/RoofTop_SafeHouse/RTSH.unity
     guid: eeabfdba185b5434a9eebab754a9ac66
   - enabled: 1
